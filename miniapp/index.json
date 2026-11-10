@@ -1,7 +1,15 @@
 {
  "schema": 1,
- "latest": "2026-11-10",
+ "latest": "2026-11-11",
  "items": [
+  {
+   "date": "2026-11-11",
+   "weekday": "수요일",
+   "published": "2026-11-11T08:56:19+09:00",
+   "mode": "stock",
+   "name": "NHN",
+   "tag": "최초"
+  },
   {
    "date": "2026-11-10",
    "weekday": "화요일",
